@@ -1,5 +1,45 @@
 body{
-    background-color: blue;
+    background-color: turquoise;
 
     color: white;    
+}
+html {
+    font-family: sans-serif;
+}
+
+span{ color: pink;
+ font-weight: bold;
+    
+}
+
+span.span1 { color:black;
+}
+span.span2 { color:blue;
+}
+span.span3 { color:silver;
+}
+
+#submit { 
+    color:red;
+  font-size :20px;
+  text-align:center;
+  outline:none;
+  border-style: none;
+  padding: 15px;
+  border-radius: 3px;
+  box-shadow:5px 5px 1px #90A4AE;
+  display: block;
+  background-color: #03A9FA;
+  margin-top:10px;
+}
+
+#submit:active {
+    box-shadow: 1px 1px 1px #90A4E;
+    color:white;
+}
+.img {
+   display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
