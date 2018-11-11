@@ -1,0 +1,2 @@
+
+Var submitButton=document.querySelector("#submit");submitButton.addEventListener('click',submit);
