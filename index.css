@@ -1,5 +1,5 @@
 body{
-    background-color: turquoise;
+    background-color: azure;
 
     color: white;    
 }
@@ -12,11 +12,11 @@ span{ color: pink;
     
 }
 
-span.span1 { color:black;
+span.span1 { color:red;
 }
-span.span2 { color:blue;
+span.span2 { color:red;
 }
-span.span3 { color:silver;
+span.span3 { color:red;
 }
 
 #submit { 
